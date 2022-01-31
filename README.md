@@ -1,1 +1,1 @@
-Welcome to GitHub,This is Naresh Kalluri a computer Science Grad Student in SJU.
+Welcome to GitHub,This is Naresh Kalluri a Computer Science Grad Student at SJU.
