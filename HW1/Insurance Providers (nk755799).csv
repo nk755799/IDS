@@ -1,0 +1,30 @@
+Insurance Provider,Rating(out of 10),,,
+GEICO,4.7,,Insurance Provider,Sum of Rating
+GEICO,8.3,,GEICO,22.2
+GEICO,9.2,,Progressive,23
+Progressive,7.4,,USAA,18.2
+Progressive,6.7,,Grand Total,63.4
+Progressive,8.9,,,
+USAA,3.8,,,
+USAA,6.3,,,
+USAA,8.1,,,
+,,,,
+,,,,
+,Insurance Provider,Min Rating,Max Rating,Average Rating
+,GEICO,4.7,9.2,7.4
+,Progressive,6.7,8.9,7.7
+,USAA,3.8,8.1,6.1
+,Grand Total,3.8,9.2,7.0
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
